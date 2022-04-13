@@ -1,10 +1,8 @@
-  <h1><p align="center"  >
-David Holland
-</p> </h1>
 
-  <h3><p align="center"  >
+
+  <h1><p align="center"  >
   <em>Indie Game Developer</em>
-</p> </h3>
+</p> </h1>
 
 
 ### About Myself
